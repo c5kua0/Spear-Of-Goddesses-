@@ -1,0 +1,8 @@
+name: SpearOfGoddesses
+version: 1.0
+main: me.reno.spear.SpearPlugin
+api-version: '26.1'
+
+commands:
+  spear:
+    description: Spear of Goddesses
